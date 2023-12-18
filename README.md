@@ -7,7 +7,7 @@
 
 Define a generator architecture using PyTorch to generate abstract art images.
 
-###Discriminator:
+### Discriminator:
 
 Define a discriminator using PyTorch to distinguish between real and generated images.
 ### Loss Function:
